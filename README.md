@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Web2 & Web3 development.**
 - 👯 I’m looking to collaborate on **any Web2 & Web3 project.**
 - 🤝 I'm interested in meeting **builders**.
+- 💬 Ask me about Ethersjs, Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS. 
 
 ### Find me on:
   <a href="https://twitter.com/pacelliv3" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
