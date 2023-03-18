@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building a ... **transaction explore for my ERC-20 token with React, Solidity, Nodejs and Expressjs.**
 - 🌱 I’m currently learning ... **Web2 & Web3 development.**
-- 👯 I’m looking to collaborate on ... **Web2 & Web3 project.**
+- 👯 I’m looking to collaborate on ... **any Web2 & Web3 project.**
 - 🤝 I'm interested in meeting builders.
 
 ### Find me on:
