@@ -8,3 +8,12 @@
 
 ### Find me on:
   <a href="https://twitter.com/pacelliv3" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+<h3 align="left">Blockchains</h3>
+<p align="left">
+    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
+</p>
+
+<p align="left">
+  <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="mongoDB"/> </a>
+</p>
