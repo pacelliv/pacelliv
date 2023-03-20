@@ -1,5 +1,5 @@
 ## Hello stranger 😆, my name is Eugenio Pacelli Flores Voitier 👋
-### I'm currently learning web development to become a Full Stack Developer.
+### I'm an aspiring Full Stack Developer.
 
 - 🔭 I’m currently building a **transaction explore for my ERC-20 token with React, Solidity, Nodejs and Expressjs on Ethereum.**
 - 🌱 I’m currently learning **Web2 & Web3 development.**
