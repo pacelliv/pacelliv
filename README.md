@@ -16,7 +16,7 @@
   <a href="https://chain.link/" rel="noreferrer"> <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="mongoDB"/> </a>
 </p>
 
-### Tech stack
+<h3 align="left">Tech Stack</h3>
 
 #### Languages:
 
