@@ -44,4 +44,4 @@
 
 ##
 
-<p><strong>This profile is a work in progress!</strong></p>
+<p><strong>This profile is a work in progress! 👨‍💻</strong></p>
