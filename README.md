@@ -1,4 +1,4 @@
-## Hello Mr(s). Stranger 😆, my name is Eugenio Pacelli Flores Voitier 👋
+## Hello Mr(s). Stranger 😆, my name Pacelli 👋
 ### I'm an aspiring Full Stack Developer.
 
 - 🔭 I’m currently building a **transaction explorer for my ERC-20 token with React, Solidity, Nodejs and Expressjs on Ethereum.**
