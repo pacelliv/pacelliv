@@ -43,6 +43,7 @@
 <p align="left">
   <a href="https://nextjs.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> </a>
   <a href="https://expressjs.com" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
+  <a href="https://expressjs.com" rel="noreferrer"> <img src="https://img.shields.io/badge/hardhat-yellow?style=for-the-badge&logo=hardhat&logoColor=white" alt="expressjs"/> </a>
 </p>
 
 
