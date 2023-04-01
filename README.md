@@ -27,8 +27,6 @@
 
 #### Frontend:
 
-<p align="left">
-    <a href="https://nextjs.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> </a>
     <a href="https://reactjs.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
   <a href="https://www.w3.org/html/" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
@@ -39,8 +37,24 @@
 
 <p align="left">
   <a href="https://nodejs.org" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
+</p>
+
+#### Frameworks:
+<p align="left">
+  <a href="https://nextjs.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> </a>
   <a href="https://expressjs.com" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
 </p>
+
+
+### Other:
+
+<p align="left">
+  <a href="https://www.postman.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> </a>
+  <a href="https://git-scm.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+</p>
+
+
+
 
 ##
 
