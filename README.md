@@ -1,7 +1,7 @@
 ## Hello Mr(s). Stranger 😆, my name Pacelli 👋
 ### I'm an aspiring Full Stack Developer.
 
-- 🔭 I’m currently on... nothing, maybe I'll build a NFT marketplace in the coming future.
+- 🔭 I’m currently working on... an UI for a multisig wallet that supports ERC20 tokens.
 - 🌱 I’m currently learning **Web2 & Web3 development.**
 - 👯 I’m looking to collaborate on **any Web2 & Web3 project.**
 - 🤝 I'm interested in meeting **builders**.
