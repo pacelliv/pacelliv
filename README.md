@@ -1,4 +1,4 @@
-## Hello Mr(s). Stranger 😆, my name Pacelli 👋
+## Hello Stranger 😆, my name Pacelli 👋
 ### I'm an aspiring Full Stack Developer.
 
 - 🔭 I’m currently working on... an UI for a multisig wallet that supports ERC20 tokens.
