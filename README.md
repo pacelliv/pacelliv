@@ -1,4 +1,4 @@
-## Hello fren my name Pacelli 👋
+## Welcome to my GitHub profile, my name is Pacelli 👋
 ### I'm an aspiring Full Stack Developer.
 
 - 🔭 I’m currently working on... an UI for a multisig wallet that supports ERC20 tokens and NFTs.
