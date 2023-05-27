@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile, my name is Pacelli 👋
 ### I'm an aspiring Full Stack Developer.
 
-- 🔭 I’m currently working on... an UI for a multisig wallet that supports ERC20 tokens and NFTs.
+- 🔭 I’m currently working on... refactoring my projects.
 - 🌱 I’m currently learning **Web2 & Web3 development.**
 - 👯 I’m looking to collaborate on **any Web2 & Web3 project.**
 - 🤝 I'm interested in meeting **builders**.
