@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile, my name is Pacelli 👋
+## Hello, my name is Pacelli 👋
 ### I'm an aspiring Full Stack Developer.
 
 - 🔭 I’m currently working on... refactoring my projects.
