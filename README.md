@@ -57,7 +57,7 @@
 [css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [express]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 [postman]: https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white
-[git]: https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git
+[git]: https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white"
 
 [website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
