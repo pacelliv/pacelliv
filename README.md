@@ -4,7 +4,7 @@
 - 🤝 I'm interested in meeting **builders**.
 - 💬 Ask me about **Ethersjs, Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS, Ethereum.** 
 
-### Contact Me:
+### Contact Me
 [![Twitter]](https://twitter.com/pacelliv3)
 
 ### Tech Stack
