@@ -5,7 +5,7 @@
 - 💬 Ask me about **Ethersjs, Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS, Ethereum.** 
 
 ### Contact Me:
-[![Twitter](https://twitter.com/pacelliv3)]
+[![Twitter]](https://twitter.com/pacelliv3)
 
 ### Tech Stack
 
@@ -21,13 +21,13 @@
 [![Moralis]](https://moralis.io/)
 [![TheGraph]](https://thegraph.com/en/)
 [![IPFS]](https://ipfs.tech/)
-[![Ethereum](https://ethereum.org/en/)]
-[![Chainlink](https://chain.link/)]
-[![HTML](https://www.w3.org/html/)]
-[![CSS](https://www.w3schools.com/css/)]
-[![Express](https://expressjs.com)]
-[![Postman](https://www.postman.com/)]
-[![Git](https://git-scm.com/)]
+[![Ethereum]](https://ethereum.org/en/)
+[![Chainlink]](https://chain.link/)
+[![HTML]](https://www.w3.org/html/)
+[![CSS]](https://www.w3schools.com/css/)
+[![Express]](https://expressjs.com)
+[![Postman]](https://www.postman.com/)
+[![Git]](https://git-scm.com/)
 
 ##
 
