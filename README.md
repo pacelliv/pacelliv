@@ -1,14 +1,26 @@
-## Hello, my name is Pacelli 👋
-### I'm an aspiring Full Stack Developer.
+### Hello fren, my name is Pacelli 👋
 
 - 🔭 I’m currently working on... refactoring my projects.
-- 🌱 I’m currently learning **Web2 & Web3 development.**
-- 👯 I’m looking to collaborate on **any Web2 & Web3 project.**
 - 🤝 I'm interested in meeting **builders**.
 - 💬 Ask me about **Ethersjs, Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS, Ethereum.** 
 
 ### Find me on:
   <a href="https://twitter.com/pacelliv3" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+Tech Stack
+
+[![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Solidity]](https://soliditylang.org/)
+[![NodeJS]](https://nodejs.org/)
+[![ReactJS]](https://reactjs.org/)
+[![NextJS]](https://nextjs.org/)
+[![Hardhat]](https://hardhat.org/)
+[![EthersJS]](https://docs.ethers.io/v5/)
+[![Chai]](https://www.chaijs.com/)
+[![Mocha]](https://mochajs.org/)
+[![Moralis]](https://moralis.io/)
+[![TheGraph]](https://thegraph.com/en/)
+[![IPFS]](https://ipfs.tech/)
 
 <h3 align="left">Blockchains</h3>
 <p align="left">
