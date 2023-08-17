@@ -1,9 +1,5 @@
 ### Hello fren, my name is Pacelli 👋
 
-- 🔭 I’m currently working on... refactoring my projects.
-- 🤝 I'm interested in meeting **builders**.
-- 💬 Ask me about **Ethersjs, Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS, Ethereum.** 
-
 ### Contact Me
 [![Twitter]](https://twitter.com/pacelliv3)
 
