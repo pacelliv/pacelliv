@@ -1,8 +1,5 @@
 ### Hello fren, my name is Pacelli 👋
 
-### Contact Me
-[![Twitter]](https://twitter.com/pacelliv3)
-
 ### Tech Stack
 
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
